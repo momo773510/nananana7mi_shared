@@ -1,0 +1,72 @@
+{
+  "pageTitle": "新闻动态",
+  "newsList": [
+    {
+      "tag": "公告",
+      "date": "2026-01-04",
+      "title": "七海Nana7mi正宫大战",
+      "content": "第一届七海Nana7mi正宫大战正在筹备中！为七海挑选你心仪的正宫对象！",
+      "desc": "详情请查看Bilibili@七海浪浪子 动态",
+      "image": "news/正宫大战.jpg"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 2019,
+      "events": [
+        { "month": "10月", "event": "首次展示3D形象" },
+        { "month": "12月", "event": "发布第一套新衣服并升级至2.0模型" }
+      ]
+    },
+    {
+      "year": 2020,
+      "events": [
+        { "month": "4月", "event": "达成10万粉丝" },
+        { "month": "11月", "event": "达成20万粉丝" }
+      ]
+    },
+    {
+      "year": 2021,
+      "events": [
+        { "month": "2月", "event": "达成40万粉丝" },
+        { "month": "6月", "event": "举办首次个人演唱会《这个好诶》" },
+        { "month": "7月", "event": "达成千舰成就\n达成50万粉丝" },
+        { "month": "8月", "event": "达成60万粉丝" },
+        { "month": "10月", "event": "达成70万粉丝\n" },
+        { "month": "12月", "event": "达成80万粉丝" }
+      ]
+    },
+    {
+      "year": 2022,
+      "events": [
+        { "month": "1月", "event": "参加<2nd VirtuaReal Music MIX UP!!>演唱会活动" }
+      ]
+    },
+    {
+      "year": 2023,
+      "events": [
+        { "month": "4月", "event": "出演了VirtuaReal的第三届MIXUP演出" },
+        { "month": "6月", "event": "四周年3D纪念直播" }
+      ]
+    },
+    {
+      "year": 2024,
+      "events": [
+        { "month": "6月", "event": "五周年纪念，新衣发布" },
+        { "month": "7月", "event": "五周年生日月特别3D回，达成100万粉丝" },
+        { "month": "12月", "event": "在YouTube首次开播" }
+      ]
+    },
+    {
+      "year": 2025,
+      "events": [
+        { "month": "1月", "event": "宣布手办制作决定" },
+        { "month": "5月", "event": "第四次参加了VirtuaReal 2025 Music Mixup!!" },
+        { "month": "6月", "event": "六周年纪念暨新衣发布" }
+      ]
+    }
+  ],
+  "tagStyles": {
+    "notice": "tag-notice"
+  }
+}

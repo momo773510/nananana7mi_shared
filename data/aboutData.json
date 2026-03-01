@@ -1,0 +1,99 @@
+{
+  "pageTitle": "关于七海",
+  "basicInfo": [
+    {
+      "label": "本名",
+      "value": "七海"
+    },
+    {
+      "label": "所属团体",
+      "value": "VirtuaReal"
+    },
+    {
+      "label": "活动范围",
+      "value": "Bilibili"
+    },
+    {
+      "label": "直播间号",
+      "value": "21452505"
+    },
+    {
+      "label": "昵称",
+      "value": "海子姐、七海姐、七奶奶、老公、妈、773、大鲨鱼、鲨鱼人、娜娜米、鲨鱼头、柠檬鲨、厕所精灵、逆天鲨鱼头",
+      "fullWidth": true
+    },
+    {
+      "label": "粉丝名",
+      "value": "脆鲨"
+    }
+  ],
+  "personalArchive": [
+    {
+      "label": "生日",
+      "value": "7月15日"
+    },
+    {
+      "label": "星座",
+      "value": "巨蟹座"
+    },
+    {
+      "label": "种族",
+      "value": "人？鲨鱼？"
+    },
+    {
+      "label": "血型",
+      "value": "不明"
+    },
+    {
+      "label": "身高",
+      "value": "159cm"
+    },
+    {
+      "label": "来自",
+      "value": "鲨鲨王国"
+    }
+  ],
+  "additionalStats": [
+    {
+      "icon": "index/live_days_icon.png",
+      "number": "---",
+      "label": "直播天数"
+    },
+    {
+      "icon": "index/gold_shield_icon.png",
+      "number": "20240705",
+      "label": "金盾时间"
+    },
+    {
+      "icon": "index/birthday_icon.png",
+      "number": "---",
+      "label": "下次生日还有"
+    }
+  ],
+  "highlightMessage": {
+    "title": "醒目留言",
+    "content": "欢迎来到七海的直播间！感谢大家的支持和陪伴~",
+    "icon": "✨"
+  },
+  "profile": {
+    "avatar": "index/avatar.jpg",
+    "name": "七海Nana7mi",
+    "tags": "VTuber · Singer · Gamer"
+  },
+  "icons": {
+    "heart": "❤️",
+    "contact": "📬"
+  },
+  "defaultAvatar": "images/default-avatar.png",
+  "contactInfo": {
+    "notice": "本小程序由粉丝制作，非官方应用。数据来源包括萌娘百科、微博超话以及热心脆鲨，使用AI创作了部分Q版人物。\n如有兴趣了解或做出贡献，或使用了您的素材但未能联系上，请联系作者。点击下方获取Bilibili UID",
+    "teamTitle": "贡献者",
+    "members": [
+      {
+        "name": "冰手帕",
+        "avatar": "app/bsp.jpg",
+        "uid": "uid3461578995272151"
+      }
+    ]
+  }
+}

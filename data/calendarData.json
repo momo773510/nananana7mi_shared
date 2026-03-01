@@ -1,0 +1,40 @@
+{
+  "monthCalendarImage": {
+    "2026-01": "calendar/monthCalendarImage/2026-01.png",
+    "2026-02": "calendar/monthCalendarImage/2026-02.png",
+    "2026-03": "calendar/monthCalendarImage/2026-03.png",
+    "2026-04": "calendar/monthCalendarImage/2026-04.png",
+    "2026-05": "calendar/monthCalendarImage/2026-05.png",
+    "2026-06": "calendar/monthCalendarImage/2026-06.png",
+    "2026-07": "calendar/monthCalendarImage/2026-07.png",
+    "2026-08": "calendar/monthCalendarImage/2026-08.png",
+    "2026-09": "calendar/monthCalendarImage/2026-09.png",
+    "2026-10": "calendar/monthCalendarImage/2026-10.png",
+    "2026-11": "calendar/monthCalendarImage/2026-11.png",
+    "2026-12": "calendar/monthCalendarImage/2026-12.png"
+  },
+  "qihaiQuotes": [
+    "大家好，我是七海，17岁喜欢鲨鱼的女高中生！",
+    "这是KTV版伴奏",
+    "哇，老公噶了，美美吃遗产喽",
+    "哇啊！饮料翻了"
+  ],
+  "clothingImages": {
+    "default": "calendar/clothingImage/default.png",
+    "电台": "calendar/clothingImage/电台.png",
+    "常服（鲨鱼服）": "calendar/clothingImage/常服（鲨鱼服）.png",
+    "唱诗班": "calendar/clothingImage/唱诗班.png",
+    "夏服": "calendar/clothingImage/夏服.png",
+    "战斗服": "calendar/clothingImage/战斗服.png",
+    "婚礼服": "calendar/clothingImage/婚礼服.png",
+    "地雷系女仆": "calendar/clothingImage/地雷系女仆.png",
+    "新鲨鱼服": "calendar/clothingImage/新鲨鱼服.png",
+    "团服": "calendar/clothingImage/团服.png",
+    "制服": "calendar/clothingImage/制服.png",
+    "潮酷服": "calendar/clothingImage/潮酷服.png",
+    "制服_2": "calendar/clothingImage/制服_2.png",
+    "古装": "calendar/clothingImage/古装.png",
+    "护士服": "calendar/clothingImage/护士服.png",
+    "常服": "calendar/clothingImage/常服.png"
+  }
+}

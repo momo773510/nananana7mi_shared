@@ -1,0 +1,198 @@
+{
+  "defaultAvatarUrl": "https://mmbiz.qpic.cn/mmbiz/icTdbqWNOwNRna42FI242Lcia07jQodd2FJGIYQfG0LAJGFxM4FbnQP6yfMxBgJ0F3YRqJCJ1aPAK2dQagdusBZg/0",
+  "pageTitle": "七海Nana7mi",
+  "userlogo": "index/userlogo.png",
+  "pageDescription": "✨ VTuber · Singer · Gamer ✨",
+  "audioPaths": {
+    "audio1": "music/audio1.mp3",
+    "audio2": "music/audio2.mp3",
+    "audio3": "music/audio3.mp3",
+    "audio4": "music/audio4.mp3"
+  },
+  "images": {
+    "background": "index/background.jpg",
+    "backgroundMusic": "index/bg_music.jpg",
+    "avatar": "index/avatar.jpg",
+    "menuIcons": {
+      "news": "index/icon_news.png",
+      "goods": "index/icon_goods.png",
+      "about": "index/icon_about.png"
+    },
+    "statIcons": {
+      "fanCount": "index/fanCount_icon.png",
+      "fanCountBack": "index/live_Days_icon.png",
+      "archiveCount": "index/archiveCount_icon.png",
+      "archiveCountBack": "index/gold_shield_icon.png",
+      "likeCount": "index/likeCount_icon.png",
+      "likeCountBack": "index/birthday_icon.png",
+      "liveDays": "index/live_days_icon.png",
+      "goldShield": "index/gold_shield_icon.png",
+      "birthday": "index/birthday_icon.png"
+    },
+    "socialIcons": {
+      "bilibili": "index/icon_bilibili.png",
+      "weibo": "index/icon_weibo.png",
+      "douyin": "index/icon_douyin.png",
+      "youtube": "index/icon_youtube.png"
+    }
+  },
+  "menuList": [
+    { "icon": "app/icon_news.png", "text": "新闻", "path": "/pages/news/news" },
+    { "icon": "app/icon_goods.png", "text": "周边", "path": "/pages/goods/goods" },
+    { "icon": "app/icon_about.png", "text": "关于", "path": "/pages/about/about" }
+  ],
+  "initialStatData": [
+    {
+      "icon": "index/fanCount_icon.png",
+      "number": "---",
+      "label": "关注数"
+    },
+    {
+      "icon": "index/archiveCount_icon.png",
+      "number": "---",
+      "label": "粉丝团"
+    },
+    {
+      "icon": "index/likeCount_icon.png",
+      "number": "---",
+      "label": "点赞数"
+    }
+  ],
+  "bilibili": {
+    "mid": "434334701",
+    "liveStartDate": "2019-06-15",
+    "birthday": {
+      "month": 7,
+      "day": 15
+    }
+  },
+  "infoCards": [
+    { "icon": "🦈", "text": "喜欢鲨鱼的17岁女高中生" },
+    { "icon": "🎮", "text": "每天起床开始打游戏" },
+    { "icon": "🎵", "text": "也许主业是唱歌" }
+  ],
+  "socialPlatforms": [
+    { "icon": "index/icon_bilibili.png", "label": "Bilibili", "fallback": "index/avatar_bilibili.jpg" },
+    { "icon": "index/icon_weibo.png", "label": "微博", "fallback": "index/avatar_weibo.jpg" },
+    { "icon": "index/icon_douyin.png", "label": "抖音", "fallback": "index/avatar_douyin.jpeg" },
+    { "icon": "index/icon_youtube.png", "label": "Youtube", "fallback": "index/avatar_youtube.jpg" }
+  ],
+  "clothingSection": {
+    "title": "七海的服装",
+    "buttonText": "最喜爱的服装",
+    "items": [
+      {
+        "id": 0,
+        "image": "index/detail/常服（鲨鱼服）.jpg",
+        "images": ["index/detail/常服（鲨鱼服）.jpg"],
+        "name": "常服（鲨鱼服）",
+        "desc": "棕色的中长发，与衣领平齐。\n\n左侧刘海有一个V字形状带笑脸表情的发夹，上装是一件鲨鱼外形的连帽外套，左胸上有三个手柄按钮，脸从兜帽上鲨鱼嘴的部分露出来（有时候兜帽会摘下来）。\n\n外套上有14个徽章装饰，脖子上挂着头戴式耳机，身后有鲨鱼鳍和尾巴形状的装饰物。\n\n下身装束是红色的格子短裙、黑短袜、白运动鞋。\n\n以本服设为基础设计的\"鲨鱼卫衣\"在2021年由VirtuaReal生产，在nijisanjishop发售。",
+        "date": "2019-06-15"
+      },
+      {
+        "id": 1,
+        "image": "index/detail/唱诗班.png",
+        "images": ["index/detail/唱诗班.png"],
+        "name": "唱诗班",
+        "desc": "贝雷帽、半透明泡泡袖以及黑色罩裙内搭蕾丝边的白色短裙，整体上很有唱诗班风格的服装。常服的徽章也保留了一部分。除此之外还增添了低双马尾的新发型、圆框金丝眼镜以及意义不明的抬手动作。",
+        "date": "2019-12-27"
+      },
+      {
+        "id": 2,
+        "image": "index/detail/夏服.png",
+        "images": ["index/detail/夏服.png"],
+        "name": "夏服",
+        "desc": "《【七海】等了半年的新衣服以及2.0模型升级发表会》公布的新衣服。\n\n贝雷帽、半透明泡泡袖以及黑色罩裙内搭蕾丝边的白色短裙，整体上很有唱诗班风格的服装。\n\n常服的徽章也保留了一部分。除此之外还增添了低双马尾的新发型、圆框金丝眼镜以及意义不明的抬手动作。\n\n征询新衣服意见时向一色妈妈提供了黛冬优子作为参考。",
+        "date": "2020-05-30"
+      },
+      {
+        "id": 3,
+        "image": "index/detail/战斗服.jpg",
+        "images": ["index/detail/战斗服.jpg"],
+        "name": "战斗服",
+        "desc": "整体颜色为黑色，略带一点赛博风格，外套披风可拆，内部为紧身衣，下半身是连裤袜\n\n左手机械化，身后背着高科技长刀，笑脸发卡也变为电子型。\n\n同时实装了长发，双马尾发型，可自由替换到其他衣装模型上。",
+        "date": "2021-01-09"
+      },
+      {
+        "id": 4,
+        "image": "index/detail/婚礼服.png",
+        "images": ["index/detail/婚礼服.png"],
+        "name": "婚礼服",
+        "desc": "为七海\"这个好诶\"演唱会的演出服，尚未有官方命名信息。\n\nLive2D形象首次在2021年7月16日公布。",
+        "date": "2021-07-16"
+      },
+      {
+        "id": 5,
+        "image": "index/detail/地雷系女仆.png",
+        "images": ["index/detail/地雷系女仆.png"],
+        "name": "地雷系女仆",
+        "desc": "整体颜色为黑色与粉色，主题是\"郁娇|地雷系\"\"女仆\"。尝试了很多新的元素，例如挑染、网袜、吊带、小帮手(？)。\n\n基本服装外，还搭配了可以穿脱的女仆围裙、外套。手枪平时可以放下。还搭配了多款新发型，都有粉红色挑染：高双马尾、低双马尾、包包头等。笑脸发卡变成了pien🥺。\n\n没有地雷系常见的口罩，因为七海说平时就常戴口罩了。但是左眼有纱布眼罩，七海说在偏头痛时可以使用。",
+        "date": "2021-12-04"
+      },
+      {
+        "id": 6,
+        "image": "index/detail/新鲨鱼服.jpeg",
+        "images": ["index/detail/新鲨鱼服.jpeg"],
+        "name": "新鲨鱼服",
+        "desc": "棕色的长发（或黑发带挑染）、拉链半露的鲨鱼服卫衣、黑白灰颜色搭配的JK裙、带拉链的长黑色丝袜、带粉色发卡的鲨鱼尾巴和黑粉搭配的运动鞋，无一不透露着少女的可爱气息。不同的发型体现着不同的风格：可爱的、干练的……没办法拉上拉链的南半球只好拿一只鲨鱼遮挡，这又是哪只脆鲨呢？",
+        "date": "2022-07-15"
+      },
+      {
+        "id": 7,
+        "image": "index/detail/团服.png",
+        "images": ["index/detail/团服.png"],
+        "name": "团服",
+        "desc": "随限定游戏MV一起发布的L2D形象。整体基调为蓝色战斗服，搭配巨大的单马尾，手拿神秘小手枪。直播中不常用，其中一次出场为五周年生日回的忆往昔环节。",
+        "date": "2022-08-28"
+      },
+      {
+        "id": 8,
+        "image": "index/detail/制服.jpg",
+        "images": ["index/detail/制服.jpg"],
+        "name": "制服",
+        "desc": "整体色彩轻松活泼，有和之前衣装类似的带丝带的袖口设计。头和衣服上有各种自己画的发夹和徽章，右手有一只带蝴蝶结的鲨鱼手偶，腿环上挂着一条小鲨鱼，穿着蓝白色的泡泡袜和制服鞋。短袖制服有鲨鱼包包。\n\n另有单马尾、双马尾、短发、团子马尾的发型差分，还有一个很黑的发型，自述是由于上一次发型总有观众说彩色头油染的。",
+        "date": "2023-05-19"
+      },
+      {
+        "id": 9,
+        "image": "index/detail/潮酷服.jpg",
+        "images": ["index/detail/潮酷服.jpg"],
+        "name": "潮酷服",
+        "desc": "炫酷干练的可拆卸银白色外套，内为黑色短裙，脸部有富有科技感的VR眼镜，黑色长发上别着蝴蝶结、黄豆发夹、珍珠装饰，手上提着小手提包，穿着黑色皮鞋，散发出现代的高雅气息。\n\n另有褐发、短发、团子头等差分，腿部可选黑丝袜或网袜。",
+        "date": "2023-06-15"
+      },
+      {
+        "id": 10,
+        "image": "index/detail/制服_2.png",
+        "images": ["index/detail/制服_2.png"],
+        "name": "制服",
+        "desc": "适合居家的惬意睡衣，色调为大海的淡蓝色，整体设计活泼可爱，帽子好像是一只海豚，主播表示戴上帽子后就感觉很阴暗，外套可以脱下然后非常的塞克西，腿上有腿环与不明来源的鲨鱼图案，鲨鱼尾巴上贴了淡蓝色的创口贴。\n\n另有散发、双马尾、短发，头环等差分，主播疑似自述最喜欢短发带头环的形象。",
+        "date": "2024-06-18"
+      },
+      {
+        "id": 11,
+        "image": "index/detail/古装.jpg",
+        "images": ["index/detail/古装.jpg"],
+        "name": "古装",
+        "desc": "疑似深受仙剑奇侠传影响，通过将近半小时古风国产剧情巨制引出的修仙师妹服装。\n\n以蓝白为主要配色，风格雅致，并有佩剑一把。\n\n从头到脚有非常丰富的样式差分。",
+        "date": "2025-01-29"
+      },
+      {
+        "id": 12,
+        "image": "index/detail/护士服.png",
+        "images": ["index/detail/护士服.png"],
+        "name": "护士服",
+        "desc": "暂未披露的神秘甲方赠送的护士服，由简单的国产剧情引出。\n\n色调为白紫色，身上挂满了奇奇怪怪的医疗用具，例如绷带、大皮膏、血袋、针管、手术钳之类的。可动性（尤其手部的）很强，主播表示很有意思。\n\n从衣物到发型有非常丰富的样式差分。包含口罩、手持针管等可选要素。",
+        "date": "2025-05-10"
+      },
+      {
+        "id": 13,
+        "image": "index/detail/常服.png",
+        "images": ["index/detail/常服.png"],
+        "name": "常服",
+        "desc": "主播自述是平时会穿出去的穿搭。风格简约、淡雅。\n\n色调为淡蓝色，外套里面是牛仔连衣裙，鞋子是旅游买的Miu Miu鞋同款。同时做了新的卷卷刘海。\n\n从衣物到发型有丰富的样式差分。例如衣服上的破洞、丸子头发型，脑袋上还有不同颜色的贝雷帽。",
+        "date": "2025-06-15"
+      }
+    ]
+  }
+}
