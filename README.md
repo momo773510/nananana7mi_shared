@@ -18,8 +18,6 @@
   - [首页](cloud/data/indexData.json) 首页. 有一大堆东西.
   - [关于](cloud/data/aboutData.json) 关于页面
   - [直播日历](cloud/data/calendarData.json) 日历组件的数据. 包括每场直播对应服装的图像, 以及每个月的直播日历图像.
-  - [游戏](cloud/data/gamesData.json) 游戏数据. 来源是萌娘百科(复制, 不通过接口)
-  - [周边](cloud/data/goodsData.json) 周边页面数据. 包括图片与详情
   - [新闻](cloud/data/newsData.json) 新闻页面数据. 包括新闻与经历. 这个很粗糙.
   - [醒目留言](cloud/data/messageData.json) 本来是想做成留言区的, 但是微信不让, 所以留下了这个静态的组件.
 
@@ -37,4 +35,6 @@
 
 文件的组织与命名还是很混乱的.
 
-如果想要提出建议, 补充信息, 或有版权相关问题, 建议通过Bilibili联系作者(uid). 不嫌麻烦也可以提issue等等.
+如果想要提出建议, 补充信息, 或有版权相关问题, 建议通过Bilibili联系作者(uid3461578995272151). 不嫌麻烦也可以提issue等等. 欢迎交流!
+
+- 作者有在小程序中实现一个AI七海的想法, 目前处于新建文件夹阶段.

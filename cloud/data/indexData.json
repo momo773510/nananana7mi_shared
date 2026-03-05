@@ -45,7 +45,7 @@
     {
       "icon": "index/fanCount_icon.png",
       "number": "---",
-      "label": "关注数"
+      "label": "脆鲨数"
     },
     {
       "icon": "index/archiveCount_icon.png",
@@ -72,10 +72,10 @@
     { "icon": "🎵", "text": "也许主业是唱歌" }
   ],
   "socialPlatforms": [
-    { "icon": "index/icon_bilibili.png", "label": "Bilibili", "fallback": "index/avatar_bilibili.jpg" },
-    { "icon": "index/icon_weibo.png", "label": "微博", "fallback": "index/avatar_weibo.jpg" },
-    { "icon": "index/icon_douyin.png", "label": "抖音", "fallback": "index/avatar_douyin.jpeg" },
-    { "icon": "index/icon_youtube.png", "label": "Youtube", "fallback": "index/avatar_youtube.jpg" }
+    { "icon": "index/icon_bilibili.png", "label": "Bilibili", "fallback": "index/avatar_bilibili.jpg", "url": "https://space.bilibili.com/434334701" },
+    { "icon": "index/icon_weibo.png", "label": "微博", "fallback": "index/avatar_weibo.jpg", "url": "https://weibo.com/u/7198559139" },
+    { "icon": "index/icon_douyin.png", "label": "抖音", "fallback": "index/avatar_douyin.jpeg", "url": "https://www.douyin.com/user/MS4wLjABAAAAGeiluJjizroSmPhcNdlsS0b7M0rxi5ygfrtqdByE0FCYi__j0fS_E52uGaF7ujpn" },
+    { "icon": "index/icon_youtube.png", "label": "Youtube", "fallback": "index/avatar_youtube.jpg", "url": "https://www.youtube.com/@Nana7mi-VirtuaReal" }
   ],
   "clothingSection": {
     "title": "七海的服装",
