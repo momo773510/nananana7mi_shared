@@ -37,6 +37,46 @@
 - 音乐:
   - [音频](cloud/music) 背景音乐和鲨鱼鳍交互音效.(点击userlogo或者鲨鱼鳍)
 
+- 脚本:
+  - [弹幕总结](scripts/弹幕总结) 弹幕下载与AI总结工具
+
 文件的组织与命名还是很混乱的.
+
+## 脚本说明
+
+### 弹幕总结脚本
+
+[summarize_danmukus.py](scripts/弹幕总结/summarize_danmukus.py) 是一个用于下载B站视频弹幕并使用AI进行内容总结的脚本。
+
+**主要功能：**
+
+- 从B站下载指定视频或视频系列的弹幕
+- 支持多P视频弹幕合并
+- 按密度筛选弹幕，保留高密度时段的弹幕
+- 调用AI API对弹幕内容进行智能总结，提取直播中的关键事件
+- 支持多轮独立总结并整合，提高总结质量
+
+**配置要求：**
+
+使用前需要配置以下参数：
+
+- `API_BASE_URL`: AI服务商API地址
+- `API_MODEL`: 使用的模型名称
+- `API_KEY`: API密钥
+
+**使用方式：**
+
+```python
+# 对系列视频进行总结
+summarize_series_videos(
+    mid="",              # B站用户ID
+    series_name="",      # 系列名称
+    api_key=API_KEY,
+    max_pages=60,        # 限制页数
+    output_file="summaries.json",
+    verify_rounds=2,     # 验证轮数
+    enable_format=True,  # 格式规整
+)
+```
 
 如果想要提出建议, 补充信息, 或有版权相关问题, 建议通过Bilibili联系作者(uid3461578995272151). 不嫌麻烦也可以提issue等等. 欢迎交流!
