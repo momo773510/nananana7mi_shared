@@ -1,0 +1,55 @@
+{
+  "pageTitle": "周边商品",
+  "categories": ["大航海礼物", "官方周边", "虚拟周边", "同人周边"],
+  "defaultCategory": "大航海礼物",
+  "search": {
+    "placeholder": "想找点什么呢？"
+  },
+  "tagColors": {
+    "blue": "tag-blue",
+    "purple": "tag-purple",
+    "yellow": "tag-yellow"
+  },
+  "seriesConfig": {
+    "官方周边": [
+      {
+        "name": "手办与盒蛋",
+        "description": "七海形象的手办以及盒蛋"
+      },
+      {
+        "name": "VirtuaReal 2026 兔女郎",
+        "description": "请问你要来点兔子吗？"
+      },
+      {
+        "name": "VirtuaReal 2026 福气多多 好运连连",
+        "description": "2026年新春主题周边。淘宝买过年收货，B站买拖了很久"
+      },
+      {
+        "name": "VirtuaReal 2025 绮梦之旅",
+        "description": "塔罗牌主题的周边。七海是「愚者」‌"
+      },
+      {
+        "name": "情人节礼盒",
+        "description": "每年都会推出的情人节礼盒，内容丰富"
+      },
+      {
+        "name": "其他",
+        "description": "其他周边"
+      }
+    ],
+    "虚拟周边": [
+      {
+        "name": "收藏集",
+        "description": "B站推出的虚拟商品，一般体现为站内主题、皮肤以及数字藏品"
+      },
+      {
+        "name": "兽耳助手",
+        "description": "兽耳助手推出的虚拟助手，互动养成的动态壁纸，七海有两套皮肤"
+      },
+      {
+        "name": "其他",
+        "description": "其他周边"
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "pageTitle": "新闻动态",
+  "milestones": [
+    {
+      "year": 2019,
+      "events": [
+        {
+          "month": "10月",
+          "event": "首次展示3D形象",
+          "desc": "",
+          "image": ""
+        },
+        {
+          "month": "12月",
+          "event": "发布第一套新衣服并升级至2.0模型",
+          "desc": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "events": [
+        {
+          "month": "4月",
+          "event": "达成10万粉丝",
+          "desc": "",
+          "image": ""
+        },
+        {
+          "month": "11月",
+          "event": "达成20万粉丝",
+          "desc": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "events": [
+        {
+          "month": "2月",
+          "event": "达成40万粉丝",
+          "desc": "",
+          "image": ""
+        },
+        {
+          "month": "6月",
+          "event": "举办首次个人演唱会《这个好诶》",
+          "desc": "",
+          "image": ""
+        },
+        {
+          "month": "7月",
+          "event": "达成千舰成就\n达成50万粉丝",
+          "desc": "",
+          "image": ""
+        },
+        {
+          "month": "8月",
+          "event": "达成60万粉丝",
+          "desc": "",
+          "image": ""
+        },
+        {
+          "month": "10月",
+          "event": "达成70万粉丝",
+          "desc": "",
+          "image": ""
+        },
+        {
+          "month": "12月",
+          "event": "达成80万粉丝",
+          "desc": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "events": [
+        {
+          "month": "1月",
+          "event": "参加<2nd VirtuaReal Music MIX UP!!>演唱会活动",
+          "desc": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "events": [
+        {
+          "month": "4月",
+          "event": "出演了VirtuaReal的第三届MIXUP演出",
+          "desc": "",
+          "image": ""
+        },
+        {
+          "month": "6月",
+          "event": "四周年3D纪念直播",
+          "desc": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "events": [
+        {
+          "month": "6月",
+          "event": "五周年纪念，新衣发布",
+          "desc": "",
+          "image": ""
+        },
+        {
+          "month": "7月",
+          "event": "五周年生日月特别3D回，达成100万粉丝",
+          "desc": "",
+          "image": ""
+        },
+        {
+          "month": "12月",
+          "event": "在YouTube首次开播",
+          "desc": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "events": [
+        {
+          "month": "1月",
+          "event": "宣布手办制作决定",
+          "desc": "",
+          "image": ""
+        },
+        {
+          "month": "5月",
+          "event": "第四次参加了VirtuaReal 2025 Music Mixup!!",
+          "desc": "",
+          "image": ""
+        },
+        {
+          "month": "6月",
+          "event": "六周年纪念暨新衣发布",
+          "desc": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "tagStyles": {
+    "notice": "tag-notice"
+  }
+}

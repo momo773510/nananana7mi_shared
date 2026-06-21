@@ -1,0 +1,130 @@
+{
+  "defaultThemeId": "jiraikei",
+  "themes": {
+    "nana7mi_vr": {
+      "name": "七海Nana7mi VR",
+      "icon": "theme/theme_nana7mi_vr.png",
+      "colors": {
+        "primary": "#1055a4",
+        "secondary": "#FFFFFF",
+        "background": "#418BDE",
+        "text": "#333333",
+        "cardBg": "rgba(255, 255, 255, 0.9)"
+      },
+      "images": {
+        "navbarBg": "theme/nana7mi_vr/header_bg.png",
+        "tabbarBg": "theme/nana7mi_vr/tab_bg.png",
+        "sideBg": [
+          "theme/nana7mi_vr/side_1.jpg",
+          "theme/nana7mi_vr/side_2.jpg"
+        ],
+        "tabIcons": {
+          "home": "theme/nana7mi_vr/tab_home.png",
+          "homeActive": "theme/nana7mi_vr/tab_home_active.png",
+          "news": "theme/nana7mi_vr/tab_news.png",
+          "newsActive": "theme/nana7mi_vr/tab_news_active.png",
+          "goods": "theme/nana7mi_vr/tab_goods.png",
+          "goodsActive": "theme/nana7mi_vr/tab_goods_active.png",
+          "about": "theme/nana7mi_vr/tab_about.png",
+          "aboutActive": "theme/nana7mi_vr/tab_about_active.png"
+        }
+      },
+      "backgroundMusic": "theme/nana7mi_vr/background_music.mp3"
+    },
+    "jiraikei": {
+      "name": "七海地雷套装",
+      "icon": "theme/theme_jiraikei.png",
+      "colors": {
+        "primary": "#FF69B4",
+        "secondary": "#FFFFFF",
+        "background": "#FFB6C1",
+        "text": "#333333",
+        "cardBg": "rgba(255, 255, 255, 0.9)"
+      },
+      "images": {
+        "navbarBg": "theme/jiraikei/header_bg.jpg",
+        "tabbarBg": "theme/jiraikei/tab_bg.png",
+        "sideBg": [
+          "theme/jiraikei/side_1.jpg",
+          "theme/jiraikei/side_2.jpg",
+          "theme/jiraikei/side_3.jpg"
+        ],
+        "tabIcons": {
+          "home": "theme/jiraikei/tab_home.png",
+          "homeActive": "theme/jiraikei/tab_home_active.png",
+          "news": "theme/jiraikei/tab_news.png",
+          "newsActive": "theme/jiraikei/tab_news_active.png",
+          "goods": "theme/jiraikei/tab_goods.png",
+          "goodsActive": "theme/jiraikei/tab_goods_active.png",
+          "about": "theme/jiraikei/tab_about.png",
+          "aboutActive": "theme/jiraikei/tab_about_active.png"
+        }
+      },
+      "backgroundMusic": "theme/jiraikei/background_music.mp3"
+    },
+    "concert": {
+      "name": "七海演唱会",
+      "icon": "theme/theme_concert.png",
+      "colors": {
+        "primary": "#56cbeb",
+        "secondary": "#FFFFFF",
+        "background": "#8ed7ec",
+        "text": "#333333",
+        "cardBg": "rgba(255, 255, 255, 0.9)"
+      },
+      "images": {
+        "navbarBg": "theme/concert/header_bg.jpg",
+        "tabbarBg": "theme/concert/tab_bg.png",
+        "sideBg": [
+          "theme/concert/side_1.jpg",
+          "theme/concert/side_2.jpg",
+          "theme/concert/side_3.jpg"
+        ],
+        "tabIcons": {
+          "home": "theme/concert/tab_home.png",
+          "homeActive": "theme/concert/tab_home_active.png",
+          "news": "theme/concert/tab_news.png",
+          "newsActive": "theme/concert/tab_news_active.png",
+          "goods": "theme/concert/tab_goods.png",
+          "goodsActive": "theme/concert/tab_goods_active.png",
+          "about": "theme/concert/tab_about.png",
+          "aboutActive": "theme/concert/tab_about_active.png"
+        }
+      },
+      "backgroundMusic": "theme/concert/background_music.mp3"
+    },
+    "rpg": {
+      "name": "七海RPG",
+      "icon": "theme/theme_rpg.png",
+      "colors": {
+        "primary": "#9A1CD6",
+        "secondary": "#FFFFFF",
+        "background": "#C547FF",
+        "text": "#333333",
+        "cardBg": "rgba(255, 255, 255, 0.9)"
+      },
+      "images": {
+        "navbarBg": "theme/rpg/header_bg.jpg",
+        "tabbarBg": "theme/rpg/tab_bg.png",
+        "sideBg": [
+          "theme/rpg/side_1.jpg",
+          "theme/rpg/side_2.jpg",
+          "theme/rpg/side_3.jpg",
+          "theme/rpg/side_4.jpg",
+          "theme/rpg/side_5.jpg"
+        ],
+        "tabIcons": {
+          "home": "theme/rpg/tab_home.png",
+          "homeActive": "theme/rpg/tab_home_active.png",
+          "news": "theme/rpg/tab_news.png",
+          "newsActive": "theme/rpg/tab_news_active.png",
+          "goods": "theme/rpg/tab_goods.png",
+          "goodsActive": "theme/rpg/tab_goods_active.png",
+          "about": "theme/rpg/tab_about.png",
+          "aboutActive": "theme/rpg/tab_about_active.png"
+        }
+      },
+      "backgroundMusic": "theme/rpg/background_music.mp3"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "enabled": false,
+  "version": "1.0.0",
+  "showOnce": true,
+  "title": "2026 Mixup即将举办！",
+  "content": "七海在两天均有出场\n演唱会有8首全新原创曲目",
+  "type": "info",
+  "imageUrl": "news/26mixup.jpg",
+  "buttons": [
+    {
+      "text": "知道了",
+      "action": "close"
+    }
+  ],
+  "startTime": "",
+  "endTime": "",
+  "createdAt": "2026-05-24",
+  "updatedAt": "2026-05-24"
+}

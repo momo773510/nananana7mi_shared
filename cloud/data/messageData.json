@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "avatar": "/images/app/bsp.jpg",
+      "nickname": "冰手帕",
+      "content": "hello world",
+      "tier": "tier1"
+    }
+  ],
+  "tierColors": {
+    "tier1": "#2A60B2",
+    "tier2": "#427D9E",
+    "tier3": "#E09443"
+  }
+}

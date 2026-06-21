@@ -1,0 +1,60 @@
+{
+  "playlist": [
+    {
+      "name": "无垠梦海",
+      "src": "bg_music.mp3",
+      "lrc": "song/无垠梦海.lrc"
+    },
+    {
+      "name": "「It's Nanamism! 」",
+      "src": "song/「It's Nanamism! 」七海Nana7mi feat. IOSYS.mp3",
+      "lrc": "song/「It's Nanamism! 」七海Nana7mi feat. IOSYS.lrc"
+    },
+    {
+      "name": "「It's Nanamism! 」（中文版）",
+      "src": "song/「It's Nanamism! 」（中文版） 七海Nana7mi feat. IOSYS.mp3",
+      "lrc": "song/「It's Nanamism! 」（中文版） 七海Nana7mi feat. IOSYS.lrc"
+    },
+    {
+      "name": "娜娜米祝你嗨皮嗨皮new耶尔",
+      "src": "song/娜娜米祝你嗨皮嗨皮new耶尔.mp3",
+      "lrc": "song/娜娜米祝你嗨皮嗨皮new耶尔.lrc"
+    },
+    {
+      "name": "元气女孩",
+      "src": "song/【hanser × 七海】元气女孩【原创曲】.mp3",
+      "lrc": "song/【hanser × 七海】元气女孩【原创曲】.lrc"
+    },
+    {
+      "name": "RUNNer（敢敢心心 BW现场）",
+      "src": "song/【RUNNer】【敢敢心心】原创曲 BW现场.mp3",
+      "lrc": "song/【RUNNer】【敢敢心心】原创曲 BW现场.lrc"
+    },
+    {
+      "name": "77 77 PM",
+      "src": "song/【七海】77 77 PM【原创曲】.mp3",
+      "lrc": "song/【七海】77 77 PM【原创曲】.lrc"
+    },
+    {
+      "name": "限定游戏",
+      "src": "song/【七海x阿梓x小可】原创曲《限定游戏》心动上线（Prod.苏逸）.mp3",
+      "lrc": "song/【七海x阿梓x小可】原创曲《限定游戏》心动上线（Prod.苏逸）.lrc"
+    },
+    {
+      "name": "星遇",
+      "src": "song/【七海x阿梓x小可原创曲】星遇.mp3",
+      "lrc": "song/【七海x阿梓x小可原创曲】星遇.lrc"
+    },
+    {
+      "name": "流星",
+      "src": "song/【小海梓原创曲】流星.mp3",
+      "lrc": "song/【小海梓原创曲】流星.lrc"
+    },
+    {
+      "name": "毛茸茸软乎乎",
+      "src": "song/毛茸茸软乎乎.mp3",
+      "lrc": "song/毛茸茸软乎乎.lrc"
+    }
+  ],
+  "defaultIndex": 0
+}
