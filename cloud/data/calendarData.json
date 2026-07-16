@@ -4,7 +4,8 @@
     "2026-03": "calendar/monthCalendarImage/2026-03.png",
     "2026-04": "calendar/monthCalendarImage/2026-04.png",
     "2026-05": "calendar/monthCalendarImage/2026-05.png",
-    "2026-06": "calendar/monthCalendarImage/2026-06.png"
+    "2026-06": "calendar/monthCalendarImage/2026-06.png",
+    "2026-07": "calendar/monthCalendarImage/2026-07.png"
   },
   "qihaiQuotes": [
     "大家好，我是七海，17岁喜欢鲨鱼的女高中生！",
@@ -30,7 +31,8 @@
     "古装": "calendar/clothingImage/古装.png",
     "护士服": "calendar/clothingImage/护士服.png",
     "常服": "calendar/clothingImage/常服.png",
-    "法师服":"calendar/clothingImage/法师服.png"
+    "法师服":"calendar/clothingImage/法师服.png",
+    "轻亚服":"calendar/clothingImage/轻亚服.png"
   },
   "tagConfig": {
     "tags": {
@@ -53,6 +55,10 @@
       "3D": {
         "color": "#003300",
         "description": "3D演出直播"
+      },
+      "歌回": {
+        "color": "#4066FF",
+        "description": "唱歌直播"
       }
     }
   },
