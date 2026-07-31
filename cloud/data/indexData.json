@@ -67,9 +67,9 @@
     }
   },
   "infoCards": [
-    { "icon": "🦈", "text": "喜欢鲨鱼的17岁女高中生" },
-    { "icon": "🎮", "text": "每天起床开始打游戏" },
-    { "icon": "🎵", "text": "也许主业是唱歌" }
+    { "icon": "🦈", "text": "百科" },
+    { "icon": "🎮", "text": "游戏" },
+    { "icon": "🎵", "text": "歌单" }
   ],
   "socialPlatforms": [
     { "icon": "index/icon_bilibili.png", "label": "Bilibili", "fallback": "index/avatar_bilibili.jpg", "url": "https://space.bilibili.com/434334701" },
@@ -100,7 +100,26 @@
         "id": "live_room_3",
         "name": "直播间3",
         "path": "images/index/live_room/live_room_3.jpg"
+      },
+      {
+        "id": "live_room_4",
+        "name": "直播间4",
+        "path": "images/index/live_room/live_room_4.jpg"
+      },
+      {
+        "id": "live_room_5",
+        "name": "直播间5",
+        "path": "images/index/live_room/live_room_5.jpg"
+      },
+      {
+        "id": "live_room_6",
+        "name": "直播间6",
+        "path": "images/index/live_room/live_room_6.jpg"
       }
+      
+    ],
+    "stickers": [
+      { "name": "饿了么嗯券", "path": "images/index/sticker/饿了么嗯券.png" }
     ],
     "items": [
       {
@@ -159,8 +178,8 @@
       },
       {
         "id": 6,
-        "image": "index/detail/新鲨鱼服.jpeg",
-        "images": ["index/detail/新鲨鱼服.jpeg"],
+        "image": "index/detail/新鲨鱼服_1.png",
+        "images": ["index/detail/新鲨鱼服_1.png","index/detail/新鲨鱼服_2.png"],
         "name": "新鲨鱼服",
         "desc": "棕色的长发（或黑发带挑染）、拉链半露的鲨鱼服卫衣、黑白灰颜色搭配的JK裙、带拉链的长黑色丝袜、带粉色发卡的鲨鱼尾巴和黑粉搭配的运动鞋，无一不透露着少女的可爱气息。不同的发型体现着不同的风格：可爱的、干练的……没办法拉上拉链的南半球只好拿一只鲨鱼遮挡，这又是哪只脆鲨呢？",
         "date": "2022-07-15",
@@ -186,8 +205,8 @@
       },
       {
         "id": 9,
-        "image": "index/detail/潮酷服.jpg",
-        "images": ["index/detail/潮酷服.jpg"],
+        "image": "index/detail/潮酷服_1.png",
+        "images": ["index/detail/潮酷服_1.png","index/detail/潮酷服_2.png"],
         "name": "潮酷服",
         "desc": "炫酷干练的可拆卸银白色外套，内为黑色短裙，脸部有富有科技感的VR眼镜，黑色长发上别着蝴蝶结、黄豆发夹、珍珠装饰，手上提着小手提包，穿着黑色皮鞋，散发出现代的高雅气息。\n\n另有褐发、短发、团子头等差分，腿部可选黑丝袜或网袜。",
         "date": "2023-07-15",
@@ -204,8 +223,8 @@
       },
       {
         "id": 11,
-        "image": "index/detail/古装.jpg",
-        "images": ["index/detail/古装.jpg"],
+        "image": "index/detail/古装_1.png",
+        "images": ["index/detail/古装_1.png","index/detail/古装_2.png"],
         "name": "古装",
         "desc": "疑似深受仙剑奇侠传影响，通过将近半小时古风国产剧情巨制引出的修仙师妹服装。\n\n以蓝白为主要配色，风格雅致，并有佩剑一把。\n\n从头到脚有非常丰富的样式差分。",
         "date": "2025-01-29",
@@ -243,10 +262,103 @@
         "image": "index/detail/轻亚服_1.png",
         "images": ["index/detail/轻亚服_1.png","index/detail/轻亚服_2.png","index/detail/轻亚服_3.png"],
         "name": "轻亚服",
-        "desc": "七周年生日会发布的被称作亚又没有很亚的轻亚服，带点精神小妹风格的挂着诸多小装饰的服装，包括被一只鲨鱼咬住的鲨鱼\n\n蓝黑色调 ，有巨人、王国之心、寒蝉等元素乱入，发型有长发、麻花辫双马尾等差分。\n\n还贴了纹身贴。总的来说，非常地有活力，非常地青春",
+        "desc": "七周年生日会发布的被称作亚又没有很亚的轻亚服，带点精神小妹风格的挂着诸多小装饰的服装，包括被一只鲨鱼咬住的鲨鱼。\n\n蓝黑色调，有巨人、王国之心、寒蝉等元素乱入，发型有长发、麻花辫双马尾等差分。\n\n还贴了纹身贴。总的来说，非常地有活力，非常地青春。",
         "date": "2026-07-15",
         "bvid": "BV122Ku6WEM4"
       }
+    ],
+    "3Ditems": [
+      {
+        "id": 0,
+        "image": "index/detail/常服（鲨鱼服）_3D.png",
+        "images": ["index/detail/常服（鲨鱼服）_3D.png","index/detail/常服（鲨鱼服）_家用3D.png"],
+        "name": "常服（鲨鱼服）",
+        "desc": "鲨鱼服的3D形象，此时形象还很原始。后来修修补补，还有家用3D版本，家用Q版",
+        "date": "2019-10-06",
+        "bvid": "BV1SE411o7LL"
+      },
+      {
+        "id": 1,
+        "image": "index/detail/舞台服_3D.png",
+        "images": ["index/detail/舞台服_3D.png"],
+        "name": "舞台服",
+        "desc": "貌似最早出现在BW2019。\n\n对应的形象在七海Nana7mi VR收藏集中，但是没有live2D版本。",
+        "date": "2019-10-06",
+        "bvid": "BV1tJ411s76x"
+      },
+      {
+        "id": 2,
+        "image": "index/detail/婚礼服_3D.png",
+        "images": ["index/detail/婚礼服_3D.png"],
+        "name": "婚礼服",
+        "desc": "婚礼服的3D版本。最早疑似出现在2021年的个人演唱会。但是找不到演唱会的图\n\n有家用3D版本。",
+        "date": "2021-06-15",
+        "bvid": "BV1tJ411s76x"
+      },
+      {
+        "id": 3,
+        "image": "index/detail/舞台服_2_3D.png",
+        "images": ["index/detail/舞台服_2_3D.png"],
+        "name": "舞台服",
+        "desc": "出现在BML2021的神秘3D服，暂未找到来源与形象。不过收藏集“七海演唱会”的评论装扮与点赞特效为此形象。",
+        "date": "2021-07-13",
+        "bvid": "BV1DX4y1w7qj"
+      },
+      {
+        "id": 4,
+        "image": "index/detail/地雷系女仆_3D.png",
+        "images": ["index/detail/地雷系女仆_3D.png"],
+        "name": "地雷系女仆",
+        "desc": "地雷系女仆的3D版本。出现在2022年的新3D回。有家用3D版本，家用Q版",
+        "date": "2022-08-19",
+        "bvid": "BV1Ba411d7dc"
+      },
+      {
+        "id": 5,
+        "image": "index/detail/团服_3D.png",
+        "images": ["index/detail/团服_3D.png"],
+        "name": "团服",
+        "desc": "和小海梓的原创曲《限定游戏》一同发布的团服3D版本。",
+        "date": "2022-08-28",
+        "bvid": "BV1HG4y167rK"
+      },
+      {
+        "id": 6,
+        "image": "index/detail/新鲨鱼服_3D.png",
+        "images": ["index/detail/新鲨鱼服_3D.png"],
+        "name": "新鲨鱼服",
+        "desc": "新鲨鱼服的3D版本。出现在2023年的四周年纪念回。有家用小孩版本",
+        "date": "2023-06-16",
+        "bvid": "BV1ch411M7mE"
+      },
+      {
+        "id": 7,
+        "image": "index/detail/泳装_3D.png",
+        "images": ["index/detail/泳装_3D.png"],
+        "name": "泳装",
+        "desc": "VirtuaReal 2023年想去海边3D直播出现的服装，非常清凉。好像也有家用版本。",
+        "date": "2024-08-25",
+        "bvid": "BV1jN411q7Qy"
+      },
+      {
+        "id": 8,
+        "image": "index/detail/舞台服_3_3D_1.png",
+        "images": ["index/detail/舞台服_3_3D_1.png","index/detail/舞台服_3_3D_2.png"],
+        "name": "舞台服",
+        "desc": "VirtuaReal 2025/2026出现的舞台服。作为3D也有两种差分。",
+        "date": "2025-05-02",
+        "bvid": "BV1ddE4zeEAg"
+      },
+      {
+        "id": 9,
+        "image": "index/detail/制服_3D_1.png",
+        "images": ["index/detail/制服_3D_1.png","index/detail/制服_3D_2.png"],
+        "name": "制服",
+        "desc": "制服的3D版本，有live2D没有的差分。出现在2026年的7周年纪念直播里",
+        "date": "2026-06-18",
+        "bvid": "BV1Vija6dEW9"
+      }
+      
     ]
   },
   "dataStats": {

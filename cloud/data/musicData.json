@@ -16,11 +16,6 @@
       "lrc": "song/「It's Nanamism! 」（中文版） 七海Nana7mi feat. IOSYS.lrc"
     },
     {
-      "name": "娜娜米祝你嗨皮嗨皮new耶尔",
-      "src": "song/娜娜米祝你嗨皮嗨皮new耶尔.mp3",
-      "lrc": "song/娜娜米祝你嗨皮嗨皮new耶尔.lrc"
-    },
-    {
       "name": "元气女孩",
       "src": "song/【hanser × 七海】元气女孩【原创曲】.mp3",
       "lrc": "song/【hanser × 七海】元气女孩【原创曲】.lrc"
@@ -52,8 +47,30 @@
     },
     {
       "name": "毛茸茸软乎乎",
-      "src": "song/毛茸茸软乎乎.mp3",
-      "lrc": "song/毛茸茸软乎乎.lrc"
+      "src": "song/『毛茸茸软乎乎』3D原创曲.mp3",
+      "lrc": "song/『毛茸茸软乎乎』3D原创曲.lrc"
+    }
+  ],
+  "bgmPlaylist": [
+    {
+      "name": "Raspberry-Sour - Kyatto",
+      "src": "song/Raspberry-Sour.mp3",
+      "lrc": "nolrc"
+    },
+    {
+      "name": "Moonside-Howl - Kyatto",
+      "src": "song/Moonside-Howl.mp3",
+      "lrc": "nolrc"
+    },
+    {
+      "name": "3:03 PM - Sharou",
+      "src": "song/3_03 PM.mp3",
+      "lrc": "nolrc"
+    },
+    {
+      "name": "ローファイ少女は今日も寝不足 - Sharou",
+      "src": "song/ローファイ少女は今日も寝不足.mp3",
+      "lrc": "nolrc"
     }
   ],
   "defaultIndex": 0
