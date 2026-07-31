@@ -10,11 +10,11 @@
 
 ## 文件结构
 
-小程序的数据来源分为本地与云存储, 本地存储的[文件](local/images)仅包括
+小程序的数据来源分为本地与云存储, 本地存储的[文件](local/images)包括:
 
-- tabbar中item的图片
-- userlogo中的鲨鱼鳍与浪花
-- 音乐播放旋钮的图片
+- [tabbar](local/images/tabbar)中item的图片
+- 首页的鲨鱼鳍、浪花与主题图等[图片](local/images/index)
+- [应用级](local/images/app)图像: 加载动画、刷新图标、提示图等
 
 因为微信小程序对包体大小有要求.
 
@@ -24,7 +24,7 @@
   - [首页](cloud/data/indexData.json) 首页. 有一大堆东西.
   - [关于](cloud/data/aboutData.json) 关于页面
   - [直播日历](cloud/data/calendarData.json) 日历组件的数据. 包括每场直播对应服装的图像, 以及每个月的直播日历图像.
-  - [新闻](cloud/data/newsData.json) 新闻页面数据. 包括新闻与经历. 这个很粗糙.
+  - [新闻](cloud/data/newsData.json) 新闻页面的直播历程数据.
   - [醒目留言](cloud/data/messageData.json) 本来是想做成留言区的, 但是微信不让, 所以留下了这个静态的组件.
   - [通知](cloud/data/notificationData.json) 开屏通知
   - [周边](cloud/data/goodsData.json) 周边商品数据
@@ -35,11 +35,12 @@
 
 - 图像:
   - [应用](cloud/images/app) 应用级别的图像资源, 包括tabbar图标、页面背景图等.
-  - [日历](cloud/images/calendar) 直播日历相关的图像, 包括服装图像和月历图像. 包含AI生成, 有的图像没联系上作者.
-  - [周边](cloud/images/goods) 周边商品图片, 分为官方周边、航海礼物和虚拟周边, 还有同人周边.
-  - [首页](cloud/images/index) 首页相关图片, 包括头像、图标、背景和[服装详情图](cloud/images/index/detail/).
+  - [日历](cloud/images/calendar) 直播日历相关的图像, 包括[服装图像](cloud/images/calendar/clothingImage)、[表情图](cloud/images/calendar/emoji)和[月历图像](cloud/images/calendar/monthCalendarImage). 包含AI生成, 有的图像没联系上作者.
+  - [周边](cloud/images/goods) 周边商品图片, 分为官方周边、航海礼物和虚拟周边.
+  - [首页](cloud/images/index) 首页相关图片, 包括头像、图标、背景、[直播封面](cloud/images/index/live_room)和[服装详情图](cloud/images/index/detail/).
   - [新闻](cloud/images/news) 新闻页面图片.
-  - [主题](cloud/images/theme) 主题页面图片, 包括背景、图标等. 包含多个主题: concert、jiraikei、nana7mi_vr、rpg.
+  - [主题](cloud/images/theme) 主题页面图片, 包括背景、图标等. 每个主题(concert、jiraikei、nana7mi_vr、rpg)有对应的[子目录](cloud/images/theme).
+  - [词条](cloud/images/wiki) 百科词条相关图片.
 - 音乐:
   - [背景音乐](cloud/music) 背景音乐(bg_music.mp3)和鲨鱼鳍交互音效(audio1-4.mp3, shark_fin_audio1-3.mp3)
   - [歌曲](cloud/music/song) 七海相关歌曲文件, 包含mp3和lrc歌词文件
@@ -64,6 +65,9 @@
 - 按密度筛选弹幕，保留高密度时段的弹幕
 - 调用AI API对弹幕内容进行智能总结，提取直播中的关键事件
 - 支持多轮独立总结并整合，提高总结质量
+- 支持并发处理多个视频，提高效率
+- 支持断点续传，跳过已处理的视频
+- 输出JSON Lines格式，适合微信云开发数据库导入
 
 **配置要求：**
 
@@ -72,6 +76,8 @@
 - `API_BASE_URL`: AI服务商API地址
 - `API_MODEL`: 使用的模型名称
 - `API_KEY`: API密钥
+- `BILIBILI_SESSDATA`: B站Cookie中的SESSDATA, 用于弹幕下载时解决412错误
+- `NANA7MI_PROFILE_FILE`: 七海相关资料文件路径, 用于辅助AI总结
 
 **使用方式：**
 
@@ -83,6 +89,16 @@ summarize_series_videos(
     api_key=API_KEY,
     max_pages=60,        # 限制页数
     output_file="summaries.json",
+    verify_rounds=2,     # 验证轮数
+    enable_format=True,  # 格式规整
+    enable_concurrent_request=True,  # 启用并发请求
+    max_workers=3,       # 并发线程数
+)
+
+# 对单个视频进行总结
+download_and_summarize(
+    bvid="",             # 视频BV号
+    api_key=API_KEY,
     verify_rounds=2,     # 验证轮数
     enable_format=True,  # 格式规整
 )
