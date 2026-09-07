@@ -69,7 +69,8 @@
   "infoCards": [
     { "icon": "🦈", "text": "百科" },
     { "icon": "🎮", "text": "游戏" },
-    { "icon": "🎵", "text": "歌单" }
+    { "icon": "🎵", "text": "歌单" },
+    { "icon": "📦", "text": "鲨箱" }
   ],
   "socialPlatforms": [
     { "icon": "index/icon_bilibili.png", "label": "Bilibili", "fallback": "index/avatar_bilibili.jpg", "url": "https://space.bilibili.com/434334701" },

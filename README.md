@@ -13,7 +13,7 @@
 小程序的数据来源分为本地与云存储, 本地存储的[文件](local/images)包括:
 
 - [tabbar](local/images/tabbar)中item的图片
-- 首页的鲨鱼鳍、浪花与主题图等[图片](local/images/index)
+- 首页的鲨鱼鳍、浪花、主题图等[图片](local/images/index)
 - [应用级](local/images/app)图像: 加载动画、刷新图标、提示图等
 
 因为微信小程序对包体大小有要求.
@@ -37,15 +37,16 @@
   - [应用](cloud/images/app) 应用级别的图像资源, 包括tabbar图标、页面背景图等.
   - [日历](cloud/images/calendar) 直播日历相关的图像, 包括[服装图像](cloud/images/calendar/clothingImage)、[表情图](cloud/images/calendar/emoji)和[月历图像](cloud/images/calendar/monthCalendarImage). 包含AI生成, 有的图像没联系上作者.
   - [周边](cloud/images/goods) 周边商品图片, 分为官方周边、航海礼物和虚拟周边.
-  - [首页](cloud/images/index) 首页相关图片, 包括头像、图标、背景、[直播封面](cloud/images/index/live_room)和[服装详情图](cloud/images/index/detail/).
+  - [首页](cloud/images/index) 首页相关图片, 包括头像、图标、背景、[直播封面](cloud/images/index/live_room)、[服装详情图](cloud/images/index/detail/)与[表情图](cloud/images/index/sticker).
   - [新闻](cloud/images/news) 新闻页面图片.
   - [主题](cloud/images/theme) 主题页面图片, 包括背景、图标等. 每个主题(concert、jiraikei、nana7mi_vr、rpg)有对应的[子目录](cloud/images/theme).
   - [词条](cloud/images/wiki) 百科词条相关图片.
 - 音乐:
-  - [背景音乐](cloud/music) 背景音乐(bg_music.mp3)和鲨鱼鳍交互音效(audio1-4.mp3, shark_fin_audio1-3.mp3)
+  - [音频](cloud/music) 背景音乐(bg_music.mp3)、鲨鱼鳍交互音效(audio1-4.mp3, shark_fin_audio1-3.mp3)与[语录音频](cloud/music/quote)(quote_audio1-8.mp3)
   - [歌曲](cloud/music/song) 七海相关歌曲文件, 包含mp3和lrc歌词文件
 - 视频:
   - [过渡动画](cloud/video) 切换主题时的过渡动画(theme_transition_1-4.mp4)
+  - [直播结束动画](cloud/video) 直播结束时的动画(live_end_1-2.mp4)
 
 - 脚本:
   - [弹幕总结](scripts/弹幕总结) 弹幕下载与AI总结工具

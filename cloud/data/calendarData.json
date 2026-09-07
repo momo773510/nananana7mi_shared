@@ -8,10 +8,14 @@
     "2026-07": "calendar/monthCalendarImage/2026-07.png"
   },
   "qihaiQuotes": [
-    "大家好，我是七海，17岁喜欢鲨鱼的女高中生！",
     "这是KTV版伴奏",
     "哇，老公噶了，美美吃遗产喽",
-    "哇啊！饮料翻了"
+    "哇啊！饮料翻了",
+    "你们会无缘无故地，发可爱，就代表哪天无缘无故地就要，发恶心",
+    "那没办法，那铁轨总得创似一个人，要不把你给创似吧",
+    "从今天开始，主播就不是大家的妈妈了，主播是大家可爱的妹妹",
+    "你身边没有女生？那，那，那勉为其难当你身边的女生吧",
+    "（拍肚皮）"
   ],
   "clothingImages": {
     "default": "calendar/clothingImage/default.png",
@@ -74,5 +78,9 @@
     "😱": "calendar/emoji/害怕.png",
     "😳": "calendar/emoji/害羞.png",
     "💤": "calendar/emoji/晚安.png"
-  }
+  },
+  "albumVideos": [
+    "live_end_1.mp4",
+    "live_end_2.mp4"
+  ]
 }

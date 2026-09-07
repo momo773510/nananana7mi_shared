@@ -21,7 +21,7 @@
       "lrc": "song/【hanser × 七海】元气女孩【原创曲】.lrc"
     },
     {
-      "name": "RUNNer（敢敢心心 BW现场）",
+      "name": "RUNNer",
       "src": "song/【RUNNer】【敢敢心心】原创曲 BW现场.mp3",
       "lrc": "song/【RUNNer】【敢敢心心】原创曲 BW现场.lrc"
     },
@@ -53,12 +53,12 @@
   ],
   "bgmPlaylist": [
     {
-      "name": "Raspberry-Sour - Kyatto",
+      "name": "Raspberry Sour - Kyatto",
       "src": "song/Raspberry-Sour.mp3",
       "lrc": "nolrc"
     },
     {
-      "name": "Moonside-Howl - Kyatto",
+      "name": "Moonside Howl - Kyatto",
       "src": "song/Moonside-Howl.mp3",
       "lrc": "nolrc"
     },
@@ -70,6 +70,11 @@
     {
       "name": "ローファイ少女は今日も寝不足 - Sharou",
       "src": "song/ローファイ少女は今日も寝不足.mp3",
+      "lrc": "nolrc"
+    },
+    {
+      "name": "アトリエと電脳世界 - Sharou",
+      "src": "song/アトリエと電脳世界.mp3",
       "lrc": "nolrc"
     }
   ],
