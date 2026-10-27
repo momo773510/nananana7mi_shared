@@ -86,7 +86,7 @@
   },
   "defaultAvatar": "images/default-avatar.png",
   "contactInfo": {
-    "notice": "本小程序由粉丝制作，非官方应用。数据来源包括萌娘百科、微博超话以及脆鲨，使用AI创作了大部分Q版人物。\n如有兴趣了解或做出贡献，或有侵权问题，请联系作者。点击下方获取Bilibili UID与Github地址。",
+    "notice": "如有兴趣了解或做出贡献，或有侵权问题，请联系作者。点击下方获取Bilibili UID与Github地址。",
     "teamTitle": "贡献者",
     "members": [
       {

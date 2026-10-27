@@ -2,8 +2,8 @@
   "messages": [
     {
       "avatar": "/images/app/bsp.jpg",
-      "nickname": "冰手帕",
-      "content": "hello world",
+      "nickname": "",
+      "content": "本小程序的数据来源包括萌娘百科、微博超话以及脆鲨，使用AI创作了Q版人物。如果喜欢的话，请将小程序添加到桌面！",
       "tier": "tier1"
     }
   ],
